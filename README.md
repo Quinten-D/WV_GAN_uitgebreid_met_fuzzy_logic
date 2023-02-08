@@ -12,5 +12,5 @@ Een GAN (generative adversarial network) is een generatief model dat zich niet l
 De resultaten geven weer dat het uitgebreid GAN slaagt in het opleggen van tractable constraints (correct formatteren van een doolhof) met een aanvaardbaar verlies in diversiteit.
 
 <p align="center">
-  <img width="800" alt="step" src="https://user-images.githubusercontent.com/56118785/217586618-1f504cdf-0903-42c6-835d-db270973736f.png">
+  <img width="600" alt="step" src="https://user-images.githubusercontent.com/56118785/217586618-1f504cdf-0903-42c6-835d-db270973736f.png">
 </p>
